@@ -1,2 +1,0 @@
-# ryan-santos
-site responsivo
